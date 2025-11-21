@@ -1,0 +1,6 @@
+﻿PySocks
+scapy
+termcolor
+requests
+pandas
+matplotlib
